@@ -1,0 +1,24 @@
+magic
+tech sky130A
+timestamp 1715010268
+<< error_p >>
+rect 3 23 9 26
+rect 50 23 56 26
+rect -3 14 0 20
+rect 59 14 62 20
+rect -3 3 0 9
+rect 59 3 62 9
+rect 3 -3 9 0
+rect 50 -3 56 0
+<< locali >>
+rect 20 3 39 20
+<< viali >>
+rect 3 3 20 20
+rect 39 3 56 20
+<< metal1 >>
+rect 0 20 59 23
+rect 0 3 3 20
+rect 20 3 39 20
+rect 56 3 59 20
+rect 0 0 59 3
+<< end >>

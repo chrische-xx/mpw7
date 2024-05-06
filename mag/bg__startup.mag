@@ -1,0 +1,58 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1715010268
+<< metal1 >>
+rect 251 986 1018 1066
+rect 251 542 443 986
+rect 509 588 701 885
+rect 938 510 1018 986
+rect 2508 588 2700 885
+rect 1258 542 1764 588
+rect 453 173 499 500
+rect 711 301 1248 510
+rect 1718 501 1764 542
+rect 1453 301 1513 501
+rect 1718 301 2498 501
+<< metal2 >>
+rect 545 805 665 1171
+rect 1443 341 1523 1097
+use bgs__M3_M4  bgs__M3_M4_0
+timestamp 1715010268
+transform 1 0 476 0 1 441
+box -415 -269 415 269
+use bgs__M5_M6  bgs__M5_M6_0
+timestamp 1715010268
+transform 1 0 1483 0 1 437
+box -425 -284 425 284
+use bgs__M7  bgs__M7_0
+timestamp 1715010268
+transform 1 0 2604 0 1 437
+box -296 -284 296 284
+use via__M1_M2  via__M1_M2_0
+timestamp 1715010268
+transform 0 1 1443 -1 0 471
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_1
+timestamp 1715010268
+transform 1 0 535 0 1 805
+box 0 0 140 80
+<< labels >>
+flabel comment s 345 552 345 552 1 FreeSans 200 0 0 0 vs1
+flabel comment s 735 425 735 425 1 FreeSans 200 0 0 0 vs1
+flabel comment s 735 425 735 425 1 FreeSans 200 0 0 0 vs1
+flabel comment s 479 392 479 392 1 FreeSans 200 0 0 0 vss
+flabel comment s 215 397 215 397 1 FreeSans 200 0 0 0 gate
+flabel comment s 596 552 596 552 1 FreeSans 200 0 0 0 vbg
+flabel comment s 1483 395 1483 395 1 FreeSans 200 0 0 0 vdd
+flabel comment s 1226 396 1226 396 1 FreeSans 200 0 0 0 vs1
+flabel comment s 1352 558 1352 558 1 FreeSans 200 0 0 0 vs2
+flabel comment s 1614 560 1614 560 1 FreeSans 200 0 0 0 vs2
+flabel comment s 1614 560 1614 560 1 FreeSans 200 0 0 0 vs2
+flabel comment s 1741 391 1741 391 1 FreeSans 200 0 0 0 vs2
+flabel comment s 2471 394 2471 394 1 FreeSans 200 0 0 0 vs2
+flabel comment s 2730 398 2730 398 1 FreeSans 200 0 0 0 vss
+flabel comment s 2603 558 2603 558 1 FreeSans 200 0 0 0 vdd
+<< properties >>
+string path 37.075 9.525 37.075 26.425 
+<< end >>

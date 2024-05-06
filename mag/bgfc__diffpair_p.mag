@@ -1,0 +1,510 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1715010268
+<< nwell >>
+rect 40 243 3028 3024
+<< metal1 >>
+rect 70 2948 350 3446
+rect 70 319 116 2948
+rect 479 2866 525 2917
+rect 221 2820 525 2866
+rect 221 2765 267 2820
+rect 479 2765 525 2820
+rect 737 2765 783 3057
+rect 995 2765 1041 2917
+rect 1253 2765 1299 3197
+rect 1511 2765 1557 2917
+rect 1769 2765 1815 3057
+rect 2027 2765 2073 2917
+rect 2285 2765 2331 3197
+rect 2718 2948 2998 3446
+rect 2543 2866 2589 2917
+rect 2543 2820 2847 2866
+rect 2543 2765 2589 2820
+rect 2801 2765 2847 2820
+rect 221 1924 267 1979
+rect 2801 1924 2847 1979
+rect 221 1878 300 1924
+rect 591 1703 671 1924
+rect 849 1703 929 1924
+rect 591 1389 671 1564
+rect 849 1389 929 1564
+rect 1107 1389 1187 1763
+rect 1365 1389 1445 1763
+rect 1623 1703 1703 1924
+rect 1881 1703 1961 1924
+rect 2768 1878 2847 1924
+rect 1623 1389 1703 1564
+rect 1881 1389 1961 1564
+rect 2139 1389 2219 1763
+rect 2397 1389 2477 1763
+rect 221 1343 300 1389
+rect 2768 1343 2847 1389
+rect 221 1288 267 1343
+rect 2801 1288 2847 1343
+rect 221 447 267 502
+rect 479 447 525 502
+rect 221 401 525 447
+rect 479 350 525 401
+rect 70 273 337 319
+rect 737 70 783 502
+rect 995 350 1041 502
+rect 1253 210 1299 502
+rect 1511 350 1557 502
+rect 1769 70 1815 502
+rect 2027 350 2073 502
+rect 2285 210 2331 502
+rect 2543 447 2589 502
+rect 2801 447 2847 502
+rect 2543 401 2847 447
+rect 2543 350 2589 401
+rect 2952 319 2998 2948
+rect 2731 273 2998 319
+<< metal2 >>
+rect 70 3366 2998 3446
+rect 1216 3187 3576 3267
+rect 700 3047 3376 3127
+rect 442 2907 3656 2987
+rect 0 1693 2517 1773
+rect 0 1494 2517 1574
+rect 442 280 3176 360
+rect 1216 140 3656 220
+rect 700 0 3656 80
+<< metal3 >>
+rect 1107 1494 1187 1888
+rect 1365 1494 1445 1888
+rect 2139 1494 2219 1888
+rect 2397 1494 2477 1888
+rect 3096 280 3176 2987
+rect 3296 140 3376 3127
+rect 3496 0 3576 3267
+use bgfcdpp__DUM  bgfcdpp__DUM_0
+timestamp 1715010268
+transform 1 0 2695 0 1 938
+box -194 -498 194 464
+use bgfcdpp__DUM  bgfcdpp__DUM_1
+timestamp 1715010268
+transform 1 0 373 0 1 938
+box -194 -498 194 464
+use bgfcdpp__DUM  bgfcdpp__DUM_2
+timestamp 1715010268
+transform 1 0 373 0 -1 2329
+box -194 -498 194 464
+use bgfcdpp__DUM  bgfcdpp__DUM_3
+timestamp 1715010268
+transform 1 0 2695 0 -1 2329
+box -194 -498 194 464
+use bgfcdpp__Guardring_P  bgfcdpp__Guardring_P_0
+timestamp 1715010268
+transform 1 0 -8610 0 1 -4035
+box 8588 4278 11700 7121
+use bgfcdpp__M2  bgfcdpp__M2_0
+timestamp 1715010268
+transform 1 0 889 0 1 938
+box -194 -498 194 464
+use bgfcdpp__M2  bgfcdpp__M2_1
+timestamp 1715010268
+transform 1 0 631 0 1 938
+box -194 -498 194 464
+use bgfcdpp__M2  bgfcdpp__M2_2
+timestamp 1715010268
+transform 1 0 1405 0 -1 2329
+box -194 -498 194 464
+use bgfcdpp__M2  bgfcdpp__M2_3
+timestamp 1715010268
+transform 1 0 1147 0 -1 2329
+box -194 -498 194 464
+use bgfcdpp__M2  bgfcdpp__M2_4
+timestamp 1715010268
+transform 1 0 2437 0 -1 2329
+box -194 -498 194 464
+use bgfcdpp__M2  bgfcdpp__M2_5
+timestamp 1715010268
+transform 1 0 2179 0 -1 2329
+box -194 -498 194 464
+use bgfcdpp__M2  bgfcdpp__M2_6
+timestamp 1715010268
+transform 1 0 1663 0 1 938
+box -194 -498 194 464
+use bgfcdpp__M2  bgfcdpp__M2_7
+timestamp 1715010268
+transform 1 0 1921 0 1 938
+box -194 -498 194 464
+use bgfcdpp__M3  bgfcdpp__M3_0
+timestamp 1715010268
+transform 1 0 2437 0 1 938
+box -194 -498 194 464
+use bgfcdpp__M3  bgfcdpp__M3_1
+timestamp 1715010268
+transform 1 0 2179 0 1 938
+box -194 -498 194 464
+use bgfcdpp__M3  bgfcdpp__M3_2
+timestamp 1715010268
+transform 1 0 1405 0 1 938
+box -194 -498 194 464
+use bgfcdpp__M3  bgfcdpp__M3_3
+timestamp 1715010268
+transform 1 0 1147 0 1 938
+box -194 -498 194 464
+use bgfcdpp__M3  bgfcdpp__M3_4
+timestamp 1715010268
+transform 1 0 889 0 -1 2329
+box -194 -498 194 464
+use bgfcdpp__M3  bgfcdpp__M3_5
+timestamp 1715010268
+transform 1 0 631 0 -1 2329
+box -194 -498 194 464
+use bgfcdpp__M3  bgfcdpp__M3_6
+timestamp 1715010268
+transform 1 0 1921 0 -1 2329
+box -194 -498 194 464
+use bgfcdpp__M3  bgfcdpp__M3_7
+timestamp 1715010268
+transform 1 0 1663 0 -1 2329
+box -194 -498 194 464
+use via__LI_M1  via__LI_M1_0
+timestamp 1715010268
+transform 0 -1 2998 -1 0 507
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_1
+timestamp 1715010268
+transform 0 -1 2998 -1 0 707
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_2
+timestamp 1715010268
+transform 0 -1 2998 -1 0 907
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_3
+timestamp 1715010268
+transform 0 -1 2998 -1 0 1107
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_4
+timestamp 1715010268
+transform 0 -1 2998 -1 0 1307
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_5
+timestamp 1715010268
+transform 0 -1 2998 -1 0 1507
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_6
+timestamp 1715010268
+transform 1 0 2767 0 -1 319
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_7
+timestamp 1715010268
+transform 0 -1 2998 -1 0 1707
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_8
+timestamp 1715010268
+transform -1 0 301 0 -1 319
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_9
+timestamp 1715010268
+transform 0 1 70 -1 0 507
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_10
+timestamp 1715010268
+transform 0 1 70 -1 0 707
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_11
+timestamp 1715010268
+transform 0 1 70 -1 0 907
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_12
+timestamp 1715010268
+transform 0 1 70 -1 0 1107
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_13
+timestamp 1715010268
+transform 0 1 70 -1 0 1307
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_14
+timestamp 1715010268
+transform 0 1 70 -1 0 1507
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_15
+timestamp 1715010268
+transform 0 1 70 -1 0 1707
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_16
+timestamp 1715010268
+transform 1 0 149 0 1 2948
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_17
+timestamp 1715010268
+transform 0 1 70 -1 0 1907
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_18
+timestamp 1715010268
+transform 0 1 70 -1 0 2107
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_19
+timestamp 1715010268
+transform 0 1 70 -1 0 2307
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_20
+timestamp 1715010268
+transform 0 1 70 -1 0 2507
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_21
+timestamp 1715010268
+transform 0 1 70 -1 0 2707
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_22
+timestamp 1715010268
+transform 0 1 70 -1 0 2907
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_23
+timestamp 1715010268
+transform 0 -1 2998 -1 0 1907
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_24
+timestamp 1715010268
+transform 0 -1 2998 -1 0 2107
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_25
+timestamp 1715010268
+transform 0 -1 2998 -1 0 2307
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_26
+timestamp 1715010268
+transform 0 -1 2998 -1 0 2507
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_27
+timestamp 1715010268
+transform 0 -1 2998 -1 0 2707
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_28
+timestamp 1715010268
+transform 0 -1 2998 -1 0 2907
+box -6 -6 124 52
+use via__LI_M1  via__LI_M1_29
+timestamp 1715010268
+transform -1 0 2919 0 1 2948
+box -6 -6 124 52
+use via__M1_M2  via__M1_M2_0
+timestamp 1715010268
+transform -1 0 2378 0 -1 220
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_1
+timestamp 1715010268
+transform -1 0 2636 0 -1 360
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_2
+timestamp 1715010268
+transform -1 0 2120 0 -1 360
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_3
+timestamp 1715010268
+transform 1 0 1851 0 1 1494
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_4
+timestamp 1715010268
+transform -1 0 1088 0 -1 360
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_5
+timestamp 1715010268
+transform -1 0 572 0 -1 360
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_6
+timestamp 1715010268
+transform -1 0 1346 0 -1 220
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_7
+timestamp 1715010268
+transform -1 0 830 0 -1 80
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_8
+timestamp 1715010268
+transform -1 0 1604 0 -1 360
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_9
+timestamp 1715010268
+transform 1 0 561 0 1 1494
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_10
+timestamp 1715010268
+transform 1 0 819 0 1 1494
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_11
+timestamp 1715010268
+transform 1 0 1593 0 1 1494
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_12
+timestamp 1715010268
+transform 1 0 1206 0 1 3187
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_13
+timestamp 1715010268
+transform 1 0 432 0 1 2907
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_14
+timestamp 1715010268
+transform 1 0 70 0 1 3366
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_15
+timestamp 1715010268
+transform 1 0 210 0 1 3366
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_16
+timestamp 1715010268
+transform 1 0 948 0 1 2907
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_17
+timestamp 1715010268
+transform 1 0 1077 0 -1 1937
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_18
+timestamp 1715010268
+transform 1 0 1464 0 1 2907
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_19
+timestamp 1715010268
+transform 1 0 690 0 1 3047
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_20
+timestamp 1715010268
+transform 1 0 1335 0 -1 1937
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_21
+timestamp 1715010268
+transform 1 0 2367 0 -1 1937
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_22
+timestamp 1715010268
+transform 1 0 2496 0 1 2907
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_23
+timestamp 1715010268
+transform 1 0 1980 0 1 2907
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_24
+timestamp 1715010268
+transform 1 0 2109 0 -1 1937
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_25
+timestamp 1715010268
+transform 1 0 2238 0 1 3187
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_26
+timestamp 1715010268
+transform 1 0 2858 0 1 3366
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_27
+timestamp 1715010268
+transform 1 0 2718 0 1 3366
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_28
+timestamp 1715010268
+transform 1 0 819 0 1 1693
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_29
+timestamp 1715010268
+transform 1 0 561 0 1 1693
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_30
+timestamp 1715010268
+transform 1 0 1077 0 1 1693
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_31
+timestamp 1715010268
+transform 1 0 1335 0 1 1693
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_32
+timestamp 1715010268
+transform 1 0 1593 0 1 1693
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_33
+timestamp 1715010268
+transform 1 0 1851 0 1 1693
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_34
+timestamp 1715010268
+transform 1 0 2109 0 1 1693
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_35
+timestamp 1715010268
+transform 1 0 2367 0 1 1693
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_36
+timestamp 1715010268
+transform -1 0 1862 0 -1 80
+box 0 0 140 80
+use via__M1_M2  via__M1_M2_37
+timestamp 1715010268
+transform 1 0 1722 0 1 3047
+box 0 0 140 80
+use via__M2_M3  via__M2_M3_0
+timestamp 1715010268
+transform 1 0 3456 0 1 0
+box 0 0 160 80
+use via__M2_M3  via__M2_M3_1
+timestamp 1715010268
+transform 1 0 3256 0 1 140
+box 0 0 160 80
+use via__M2_M3  via__M2_M3_2
+timestamp 1715010268
+transform 1 0 3016 0 1 280
+box 0 0 160 80
+use via__M2_M3  via__M2_M3_3
+timestamp 1715010268
+transform 1 0 2357 0 1 1494
+box 0 0 160 80
+use via__M2_M3  via__M2_M3_4
+timestamp 1715010268
+transform 1 0 2099 0 1 1494
+box 0 0 160 80
+use via__M2_M3  via__M2_M3_5
+timestamp 1715010268
+transform 1 0 1325 0 1 1494
+box 0 0 160 80
+use via__M2_M3  via__M2_M3_6
+timestamp 1715010268
+transform 1 0 1067 0 1 1494
+box 0 0 160 80
+use via__M2_M3  via__M2_M3_7
+timestamp 1715010268
+transform 1 0 1325 0 1 1857
+box 0 0 160 80
+use via__M2_M3  via__M2_M3_8
+timestamp 1715010268
+transform 1 0 1067 0 1 1857
+box 0 0 160 80
+use via__M2_M3  via__M2_M3_9
+timestamp 1715010268
+transform 1 0 2357 0 1 1857
+box 0 0 160 80
+use via__M2_M3  via__M2_M3_10
+timestamp 1715010268
+transform 1 0 2099 0 1 1857
+box 0 0 160 80
+use via__M2_M3  via__M2_M3_11
+timestamp 1715010268
+transform 1 0 3416 0 1 3187
+box 0 0 160 80
+use via__M2_M3  via__M2_M3_12
+timestamp 1715010268
+transform 1 0 3216 0 1 3047
+box 0 0 160 80
+use via__M2_M3  via__M2_M3_13
+timestamp 1715010268
+transform 1 0 3056 0 1 2907
+box 0 0 160 80
+<< labels >>
+flabel metal2 s 0 1494 40 1574 1 FreeSans 100 0 0 0 inp
+port 3 nsew
+flabel metal2 s 0 1693 40 1773 1 FreeSans 100 0 0 0 inn
+port 5 nsew
+flabel metal2 s 3616 2907 3656 2987 1 FreeSans 100 0 0 0 diff
+port 7 nsew
+flabel metal2 s 3616 140 3656 220 1 FreeSans 100 0 0 0 out1p
+port 9 nsew
+flabel metal2 s 3616 0 3656 80 1 FreeSans 100 0 0 0 out1n
+port 11 nsew
+flabel metal2 s 2958 3366 2998 3446 1 FreeSans 100 0 0 0 vdd
+port 13 nsew
+<< properties >>
+string FIXED_BBOX 0 0 3656 3446
+string path 61.925 38.350 1.000 38.350 
+<< end >>
